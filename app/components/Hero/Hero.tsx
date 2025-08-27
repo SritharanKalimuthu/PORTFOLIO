@@ -93,12 +93,12 @@ const Hero: React.FC = memo(() => {
       hoverColor: "hover:text-gray-400",
       external: true
     },
-    {
-      href: "tel:+919786348620",
-      icon: Phone,
-      label: "Phone",
-      hoverColor: "hover:text-green-500"
-    }
+    //{
+     // href: "tel:+919786348620",
+     // icon: Phone,
+     // label: "Phone",
+     // hoverColor: "hover:text-green-500"
+    //}
   ], []);
 
   return (
